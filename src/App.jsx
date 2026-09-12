@@ -103,7 +103,7 @@ function App() {
             </div>
 
             <h1>
-              Get things <span>done.</span>
+              To-Do Project <span>done.</span>
             </h1>
 
             <p>
